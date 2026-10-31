@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Luna creciente lila -->
+    <path
+        android:fillColor="#B388FF"
+        android:pathData="M66,30 A24,24 0 1 0 66,78 A30,30 0 0 1 66,30 Z" />
+    <!-- Estrella -->
+    <path
+        android:fillColor="#D1B3FF"
+        android:pathData="M68,40 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+</vector>
